@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MasseyC_ConsoleMenu</name>
+    </assembly>
+    <members>
+        <member name="T:CSC160_ConsoleMenu.CIO">
+            <summary>
+            Class used to create a menu and get a value back from user.
+            </summary>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForMenuSelection(System.Collections.Generic.IEnumerable{System.String},System.Boolean)">
+            <summary>
+            Used to create menu for the user.
+            </summary>
+            <param name="options">a collection of strings used for menu options.</param>
+            <param name="withQuit">include a quit option?</param>
+            <returns>int value of the menu choice selected.</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForBool(System.String,System.String,System.String)">
+            <summary>
+            Used to ask user a yes or no question.
+            </summary>
+            <param name="message">The message you are asking the user.</param>
+            <param name="trueString">yes or true</param>
+            <param name="falseString">no or false</param>
+            <returns></returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForByte(System.String,System.Byte,System.Byte)">
+            <summary>
+            Prompt the user for a byte value
+            </summary>
+            <param name="message">Message asking for a byte value</param>
+            <param name="min">Minimum value accepted</param>
+            <param name="max">Maximum value accepted</param>
+            <returns>Byte value the user input.</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForShort(System.String,System.Int16,System.Int16)">
+            <summary>
+            Prompts user for a short value
+            </summary>
+            <param name="message">Message asking for a short value</param>
+            <param name="min">Minimum value accepted</param>
+            <param name="max">Maximum value accepted</param>
+            <returns>Short value the user input</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForInt(System.String,System.Int32,System.Int32)">
+            <summary>
+            Prompts user for an int value
+            </summary>
+            <param name="message">Message asking for an int value</param>
+            <param name="min">Minimum value accepted</param>
+            <param name="max">Maximum value accepted</param>
+            <returns>Int value the user input</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForLong(System.String,System.Int64,System.Int64)">
+            <summary>
+            Prompts user for a long value
+            </summary>
+            <param name="message">Message asking for a long value</param>
+            <param name="min">Minimum value accepted</param>
+            <param name="max">Maximum value accepted</param>
+            <returns>Long value the user input</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForFloat(System.String,System.Single,System.Single)">
+            <summary>
+            Prompts user for a float value
+            </summary>
+            <param name="message">Message asking for a float value</param>
+            <param name="min">Minimum value accepted</param>
+            <param name="max">Maximum value accepted</param>
+            <returns>Float value the user input</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForDouble(System.String,System.Double,System.Double)">
+            <summary>
+            Prompts user for a double value
+            </summary>
+            <param name="message">Message asking for a double value</param>
+            <param name="min">Minimum value accepted</param>
+            <param name="max">Maximum value accepted</param>
+            <returns>Double value the user input</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForDecimal(System.String,System.Decimal,System.Decimal)">
+            <summary>
+            Prompts user for a decimal value
+            </summary>
+            <param name="message">Message asking for a decimal value</param>
+            <param name="min">Minimum value accepted</param>
+            <param name="max">Maximum value accepted</param>
+            <returns>Deciaml value the user input</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForInput(System.String,System.Boolean)">
+            <summary>
+            Prompts user for a message.
+            </summary>
+            <param name="message">Message asking for a string value</param>
+            <param name="allowEmpty">Is the input allowed to be empty?</param>
+            <returns>String value the user input</returns>
+        </member>
+        <member name="M:CSC160_ConsoleMenu.CIO.PromptForChar(System.String,System.Char,System.Char)">
+            <summary>
+            Prompts user for a char.
+            </summary>
+            <param name="message">Message asking for a char value</param>
+            <param name="min">Minimum char value the user can input</param>
+            <param name="max">Maximum char value the user can input</param>
+            <returns>Char value the user input</returns>
+        </member>
+    </members>
+</doc>

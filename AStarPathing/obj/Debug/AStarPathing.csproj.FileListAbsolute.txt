@@ -1,0 +1,9 @@
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\bin\Debug\AStarPathing.exe.config
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\bin\Debug\AStarPathing.exe
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\bin\Debug\AStarPathing.pdb
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\obj\Debug\AStarPathing.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\obj\Debug\AStarPathing.exe
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\obj\Debug\AStarPathing.pdb
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\bin\Debug\MasseyC_ConsoleMenu.dll
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\bin\Debug\MasseyC_ConsoleMenu.pdb
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - AStarPathing\AStarPathing\bin\Debug\MasseyC_ConsoleMenu.xml
